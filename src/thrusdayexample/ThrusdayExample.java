@@ -18,6 +18,7 @@ public class ThrusdayExample {
         // TODO code application logic here
     System.out.println("Hello!!!");
     System.out.println("Jashandeep");
+    System.out.print("Sandhu");
     }
     
 }
