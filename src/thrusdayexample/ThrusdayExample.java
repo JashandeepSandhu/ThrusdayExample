@@ -19,7 +19,7 @@ public class ThrusdayExample {
     System.out.println("Hello!!!");
     System.out.println("Jashandeep");
     System.out.print("Sandhu");
-        System.out.print("   ");
+        System.out.print(" hello  ");
     }
     
 }
